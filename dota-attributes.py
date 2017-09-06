@@ -8,14 +8,14 @@ import urllib.request
 loc = 'http://wiki.teamliquid.net/dota2/Hero_Roles'
 roles = [
     'Carry',
-	'Nuker',
-	'Initiator',
-	'Disabler',
-	'Durable',
-	'Escape',
-	'Support',
-	'Pusher',
-	'Jungler',
+    'Nuker',
+    'Initiator',
+    'Disabler',
+    'Durable',
+    'Escape',
+    'Support',
+    'Pusher',
+    'Jungler',
     'Complexity',
 ]
 
